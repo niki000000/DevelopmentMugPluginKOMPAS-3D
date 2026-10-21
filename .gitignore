@@ -1,0 +1,60 @@
+# =========================
+# Visual Studio / .NET
+# =========================
+
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.rsuser
+
+# Build folders
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+out/
+
+# Test results
+TestResults/
+*.trx
+coverage/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+~$*
+
+# Generated / cache
+*.cache
+artifacts/
+
+# Publish
+publish/
+*.publish.xml
+*.pubxml
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Local files / secrets
+*.env
+
+# Local SDK / external libraries
+external/
+local-libs/
+
+
+
